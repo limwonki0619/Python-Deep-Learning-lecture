@@ -1,4 +1,4 @@
-## Deep Learning lecture : 190808 ~ 
+## Deep Learning lecture : 190808 ~ 190814
 
 교재: 모두의 딥러닝  
 저자: 조태호 (길벗출판사)  

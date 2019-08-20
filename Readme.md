@@ -5,6 +5,7 @@
 
  - [CNN 개념](https://excelsior-cjh.tistory.com/79)
  - [신경망 성능 개선](https://datascienceschool.net/view-notebook/f18248a467e94c6483783afc93d08af9/)
+ - [딥러닝 개념정리](https://ratsgo.github.io/deep%20learning/2017/04/22/NNtricks/)
  - [딥러닝 살펴보기 1탄](https://seamless.tistory.com/34)
  - [딥러닝 살펴보기 2탄](https://seamless.tistory.com/38)
  - [블록과 함께하는 케라스 기초](https://tykimos.github.io/lecture/)  

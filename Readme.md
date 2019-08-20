@@ -8,6 +8,7 @@
  - [딥러닝 살펴보기 1탄](https://seamless.tistory.com/34)
  - [딥러닝 살펴보기 2탄](https://seamless.tistory.com/38)
  - [블록과 함께하는 케라스 기초](https://tykimos.github.io/lecture/)  
+ - [딥러닝 최신 논문자료](https://paperswithcode.com/)
 
 ### **2019.08.07**
  > - 2장 : 처음 해 보는 딥러닝

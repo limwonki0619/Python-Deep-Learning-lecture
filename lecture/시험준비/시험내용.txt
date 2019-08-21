@@ -1,8 +1,0 @@
-시험 
-
-1. Numpy
-2. Pandas
-3. SQLite3
-4. Matplotlib
-5. 이진 분류 
-6. 다중 분류
